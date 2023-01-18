@@ -1,9 +1,10 @@
 # twitter-sentiment
 data analysis of tweets in a novice way includes:
-    1. textual cleaning and formatting.
-    2. text feature extraction
-    3. machine learning model template for novice.
-    4. design patterns like pipeline, lambda implementations.
+
+* textual cleaning and formatting.
+* text feature extraction
+* machine learning model template for novice.
+* design patterns like pipeline, lambda implementations.
 
 This dataset aggregates tweets pertaining to climate change collected 
 between Apr 27, 2015 and Feb 21, 2018. In total, 43943 tweets were annotated. 
